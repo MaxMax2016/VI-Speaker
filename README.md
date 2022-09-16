@@ -4,6 +4,8 @@ Speaker embedding for VI-SVC and VI-SVS, alse for VITS; Use this to replace the 
 # code from mozill_tts and Coqpit/TTS
 https://github.com/mozilla/TTS/tree/master/TTS/speaker_encoder
 
+https://github.com/coqui-ai/TTS
+
 pip install coqpit
 
 # download model，
